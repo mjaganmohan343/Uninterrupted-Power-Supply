@@ -8,16 +8,15 @@ This repository contains the design, code, and supporting files for a 3-phase Un
 
 - [Introduction](#introduction)
 - [System Overview](#system-overview)
-  - [UPS Basics](#ups-basics)
-  - [Rectifier Stage](#rectifier-stage)
   - [3-Phase Inverter Stage](#3-phase-inverter-stage)
+  - [Rectifier Stage](#rectifier-stage)
+  - [battery charging and Discharging stage](#battery)
 - [Block Diagram](#block-diagram)
 - [Working Principle](#working-principle)
 - [Results](#results)
 - [Conclusion](#conclusion)
 - [How to Use](#how-to-use)
-- [Credits](#credits)
-- [License](#license)
+
 
 ---
 
