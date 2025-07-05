@@ -1,6 +1,6 @@
 # 3-Phase Uninterruptible Power Supply (UPS) Project
 
-This repository contains the design, code, and supporting files for a 3-phase Uninterruptible Power Supply (UPS) system, developed under the guidance of **Professor Vijay A.S**.
+This repository contains the design, simulation files, and supporting files for a 3-phase Uninterruptible Power Supply (UPS) system, developed under the guidance of **Professor Vijay A.S**.
 
 ---
 
