@@ -51,6 +51,6 @@ During a mains power failure, the inverter takes energy from the battery bank an
 *(Add your block diagram here)*
 
 ```markdown
-![Block Diagram](images/block_diagram.png)
+![Ciruit Diagram](Ups_diagram.jpg)
 
 
